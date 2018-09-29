@@ -1,0 +1,19 @@
+{
+  "name": "spaceduel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimasef/spaceduel.git"
+  },
+  "author": "antiX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimasef/spaceduel/issues"
+  },
+  "homepage": "https://github.com/dimasef/spaceduel#readme"
+}
